@@ -1,8 +1,4 @@
 hello git
 hello two
 hello 123
-hello f1
-<<<<<<< HEAD
-123--master
-456--master
-
+hello master
